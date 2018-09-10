@@ -22,3 +22,7 @@
 - Stop the currently running server:
 
 `jupyter notebook stop`
+
+- Start Jupyter lab, if installed:
+
+`jupyter lab`
